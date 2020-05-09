@@ -1,2 +1,0 @@
-# carrotcutee
-Discord Bot
