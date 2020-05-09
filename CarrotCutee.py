@@ -4,7 +4,7 @@ import random
 
 client = commands.Bot(command_prefix = '+')
 
-TOKEN = 'NzA2MTgxODAyNDAxOTg4Njc4.Xq3L-g.UsZamG4x2UydRhBFsMAPB5yOziQ'
+TOKEN = 'NzA2MTgxODAyNDAxOTg4Njc4.XraT7A.CsZcyxNewgnXRxIvhKFnhrNp3ns'
 
 @client.event
 async def on_ready():
